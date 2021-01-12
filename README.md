@@ -1,8 +1,8 @@
-##👋 Hi, I'm SunHongfan.
+## 👋 Hi, I'm SunHongfan.
 
 - 😄 I am a Linux operations engineer.
 - 🌱 I'm learning Linux.
 
-###💬 Reach me
+### 💬 Reach me
 - Telegram: Sunhongfan
 - WeChat: DS041299
