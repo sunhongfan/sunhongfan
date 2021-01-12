@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/os-centos7,8-red?logo=centos)
 </br>
 </br>
-![](https://img.shields.io/badge/-Linux-red?style=flat-square&logo=Linux) </t>
+![](https://img.shields.io/badge/Linux-red?logo=Linux) </t>
 ![](https://img.shields.io/badge/Kubernetes-green?logo=Kubernetes) </t>
 ![](https://img.shields.io/badge/Nginx-green?logo=Nginx) </t>
 ![](https://img.shields.io/badge/Python-yellow?logo=python) </t>
