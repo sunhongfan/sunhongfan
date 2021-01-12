@@ -20,3 +20,5 @@
 ![](https://img.shields.io/badge/redis-bule?logo=redis) </t>
 ![](https://img.shields.io/badge/apache-orange?logo=apache) </t>
 ![](https://img.shields.io/badge/mysql-green?logo=mysql) </t>
+
+![info](https://github-readme-stats.vercel.app/api?username=Sunhongfan&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
