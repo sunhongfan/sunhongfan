@@ -5,7 +5,7 @@
 
 ### 💬 Reach me
 - Telegram: Sunhongfan
-- WeChat: DS041299
+- WeChat: ttxs920920
 
 ### 🔗 Platform & Tools
 ![](https://img.shields.io/badge/macOS-Bigsur-292e33?&logo=apple&logoColor=ffffff)
